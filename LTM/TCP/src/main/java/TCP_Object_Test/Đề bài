@@ -1,0 +1,6 @@
+TCP_object
+chuẩn hóa 1 đối tượng sinh viên(name,dob)
+về dạng ten(in hoa),họ +tên đệm(in hoa chữ cái đầu) | DD|MM|YYYY
+
+vd: NgUYen TRoNg HunG | 04-06-2001
+=> HUNG, Nguyen Trong | 06/04/2001

@@ -1,0 +1,5 @@
+xử lý chuỗi:
+vd: nhập vào 1 chuỗi dạng:
+abc dcf HLM 
+in ra:
+Mã bài;Abc Dcf Hlm

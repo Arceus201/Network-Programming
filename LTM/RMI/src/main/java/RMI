@@ -1,0 +1,19 @@
+I.	Tài liệu tham khảo
+[1] https://docs.oracle.com/javase/tutorial/rmi/  
+[2] http://docs.oracle.com/javase/7/docs/technotes/guides/rmi/hello/hello-world.html 
+[3] http://www.oracle.com/technetwork/java/javase/overview/index-jsp-136424.html  
+
+II.	Giới thiệu RMI
+
+RMI tuân theo mô hình client – server. Server cung cấp đăng ký các đối tượng từ xa với các giao diện được đinh nghĩa trước.
+Client có thể tìm kiếm, tải về tham chiếu tới đối tượng từ xa đó và kích hoạt/gọi các phương thức từ xa của đối tượng.
+
+III.	Bài tập
+Xây dựng ứng dụng phân tán cho phép người dùng từ xa thực thi các thao tác quản lý danh bạ điện thoại. Thông tin danh bạ được lưu vào file nhị phân trên server. 
+Đối tượng từ xa sẽ hỗ trợ các thao tác:
+•	Thêm danh bạ
+•	Sửa danh bạ
+•	Xóa danh bạ
+•	Liệt kê thông tin đầy đủ của cả danh bạ 
+•	Liệt kê thông tin đầy đủ của một danh bạn cụ thể
+Thông tin được truyền lên server theo kiểu đối tượng.
